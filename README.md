@@ -74,7 +74,7 @@ project/
 └── ...
 ```
 ## 🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn and create. Any contributions you make are **greatly appreciated**.
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -85,6 +85,7 @@ Contributions are what make the open-source community such an amazing place to l
 ## 📬 Contact
 [@LakshitAgarwal](https://x.com/lakshitagarwal7?s=21) - [lakshit7811@gmail.com](mailto:lakshit7811@gmail.com)
 
-## 💖 Thanks Message
+## Thanks Message <3
 This project was made possible thanks to the contributions of many individuals and the support of our community. 
 This is written by [readme.ai](https://readme-generator-phi.vercel.app/) for better documentation.
+
