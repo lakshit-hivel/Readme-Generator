@@ -35,6 +35,7 @@ To set up the project, follow these steps:
 1. **Start the Backend**: Run `node server.js` to start the Express server.
 2. **Start the Frontend**: Run `npm run dev` to start the Next.js development server.
 3. **Interact with the Application**: Open your web browser and navigate to `http://localhost:3000` to use the application.
+4. Testing sync
 
 ## 📂 Project Structure
 ```markdown
@@ -85,7 +86,7 @@ Contributions are what make the open-source community such an amazing place to l
 ## 📬 Contact
 [@LakshitAgarwal](https://x.com/lakshitagarwal7?s=21) - [lakshit7811@gmail.com](mailto:lakshit7811@gmail.com)
 
-## Thanks <3
+## Thanks
 This project was made possible thanks to the contributions of many individuals and the support of our community. 
 This is written by [readme.ai](https://readme-generator-phi.vercel.app/) for better documentation.
 
